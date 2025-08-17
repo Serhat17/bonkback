@@ -10,7 +10,7 @@ The only requirement is having Node.js & npm installed - [install with nvm](http
 
 ```sh
 # Clone the repository
-git clone <YOUR_GIT_URL>
+git clone https://github.com/Serhat17/bonkback
 
 # Navigate to the project directory
 cd <YOUR_PROJECT_NAME>
